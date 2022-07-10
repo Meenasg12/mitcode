@@ -1,8 +1,7 @@
-[
 {
- "Age":"10-11",
- "Stroke":"Backstroke",
- "distance":"50",
- "Course":"short-course"
+  "User": {
+    "name": { "string": { "minLength": 3, "maxLength": 10 } },
+    "online": { "boolean": {} }
+    
+  }
 }
-]
